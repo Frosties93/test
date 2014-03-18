@@ -1,2 +1,1 @@
-Nytt överst!
-Andrad!
+Borta!
