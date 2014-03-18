@@ -1,3 +1,1 @@
-﻿Nytt överst!
-Andrad!
-En till rad!
+﻿Skit i allt och gör om!
