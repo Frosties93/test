@@ -1,1 +1,1 @@
-Ändrad!
+Andrad!
